@@ -1,0 +1,11 @@
+.vscode
+config.json
+/datas
+/assets
+/node_modules
+dep_april.csv
+region.csv
+regions_test.json
+test_two.csv
+test.csv
+sursaud.csv
